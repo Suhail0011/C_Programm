@@ -6,9 +6,9 @@ int main()
 
     do{
     printf("Enter Name: ");
-    scanf("%s", &name);
+    scanf("%s", name);
     printf("\n Enter Address: ");
-    scanf("%s", &address);
+    scanf("%s", address);
     printf("Enter Age: ");
     scanf("%d", &age);
 
